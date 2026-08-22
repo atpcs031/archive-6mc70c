@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://atpcs031.github.io/archive-6mc70c/sitemap.xml
